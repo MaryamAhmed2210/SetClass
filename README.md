@@ -16,12 +16,5 @@ A C++ implementation of the Set Abstract Data Type (ADT) using dynamic arrays, s
 - Arrays
 - Set ADT
 
-## Build & Run
-
-
-g++ main.cpp -o set
-./set
-
-
 
 Author: Maryam Ahmed
